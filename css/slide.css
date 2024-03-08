@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.back{
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    opacity: 10%;
+}
+
+div{
+    position: relative;
+    top: -109vh;
+    left: 15vh;
+    display: flex;
+}
+
+div img{
+    display: flex;
+    width: 470px;
+    height: 650px;
+}
+
+.data{
+    
+}
